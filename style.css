@@ -1,0 +1,26 @@
+@media screen and  (min-width: 200px){
+#main
+ {
+width: 250px;  
+} 
+}
+body{
+    background-image: linear-gradient(to left, blue,red);
+  justify-content: center;
+} 
+#main{ 
+    
+    background-color: white;
+    width: 50%;
+    height: 400px;
+    text-align:center ;
+ }
+input{
+    border: 2px solid blue;
+    justify-items:center ;
+}
+button{
+  background-color: crimson;
+    width: 100px;
+    height: 40px;
+}
